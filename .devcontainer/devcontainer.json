@@ -11,7 +11,7 @@
     }
   },
   "remoteEnv": {
-    "PATH": "${containerEnv:PATH}:/workspaces/Vue3-WebDev-Kit/bin"
+    "PATH": "${containerEnv:PATH}:/workspaces/Vue3-WebDev-F26/bin"
   },
   "portsAttributes": {
     "3000": {
